@@ -17,11 +17,11 @@
 # Установка
 | HTML |
 |------|
-| ```<script src="https://raw.githubusercontent.com/xachapyri-dev/WhatLoll-Encoder-JavaScript/refs/heads/main/WhatLoll.Encoder/WhatLoll.Encoder.min.js"></script>``` |
+| `````` |
 
 # Пример кода
 ``` html
-<script src="https://raw.githubusercontent.com/xachapyri-dev/WhatLoll-Encoder-JavaScript/refs/heads/main/WhatLoll.Encoder/WhatLoll.Encoder.min.js"></script>
+
 <script>
     const text = whatloll.encryptV2('Hello World');
     console.log(text);
