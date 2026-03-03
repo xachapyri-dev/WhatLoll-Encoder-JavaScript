@@ -15,13 +15,13 @@
 >  Это **НЕ криптографически стойкое шифрование**! Это простая замена символов для развлечения и обучения. Расшифровка не 100%
 
 # Установка
-| HTML |
-|------|
-| `````` |
+| HTML | Java Script |
+|------|-------------|
+| ```<script src="https://cdn.jsdelivr.net/gh/xachapyri-dev/WhatLoll-Encoder-JavaScript@main/WhatLoll.Encoder/WhatLoll.Encoder.min.js"></script>``` | ```import whatloll from 'https://cdn.jsdelivr.net/gh/xachapyri-dev/WhatLoll-Encoder-JavaScript@main/WhatLoll.Encoder/WhatLoll.Encoder.min.js';``` |
 
 # Пример кода
 ``` html
-
+<script src="https://cdn.jsdelivr.net/gh/xachapyri-dev/WhatLoll-Encoder-JavaScript@main/WhatLoll.Encoder/WhatLoll.Encoder.min.js"></script>
 <script>
     const text = whatloll.encryptV2('Hello World');
     console.log(text);
